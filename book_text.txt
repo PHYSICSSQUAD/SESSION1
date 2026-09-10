@@ -1,0 +1,672 @@
+===== PAGE 1 =====
+Contents
+1 Information Technology and Society 4
+1-1 Development of Information Technology and Social Transformation 4
+1-2 How AI Works 12
+1-3 AI in Daily Life and Industry 19
+1-4 Ethical Issues with AI 26
+2 Cybersecurity 33
+2-1 Cryptographic Technologies and Authentication 33
+2-2 Network Security Design 41
+2-3 Incident Response and Risk Management 48
+3 Web Applications 55
+3-1 The Overall Structure of Web Applications 55
+3-2 Web Application Communication Methods 62
+3-3 Fundamentals of Frontend Technology 68
+4 Web and Media Design 75
+4-1 Types and Characteristics of Media 75
+4-2 Information Design and User Experience for Websites 81
+4-3 Methods for Evaluating Websites 88
+4-4 The Iterative Improvement Process for Websites 95
+===== PAGE 2 =====
+1-1 — Development of Information Technology and Social Transformation
+41-1 — Development of Information Technology and Social Transformation
+Learning Objectives
+Explain the major stages in the development of information technology and their impact
+on society.
+•
+Give examples of social changes and emerging technologies brought about by
+information technology, and explain their characteristics.
+•
+Lesson 1-1
+Development of
+Information
+Technology and
+Social
+Transformation
+===== PAGE 3 =====
+1-1 — Development of Information Technology and Social Transformation
+51-1 — Development of Information Technology and Social Transformation
+Key Fact:
+At each stage,
+information technology
+introduced a new
+technology or service and
+also changed how society
+communicates, works,
+and does business.
+Key Concepts:
+Moore's Law
+SNS
+e-commerce
+remote work
+online learning
+cashless payment
+edge computing
+autonomous driving
+AR / VR
+quantum computing
+IT advanced in stages, each
+smaller and more connected.
+The first computers filled a
+whole room.
+? Guiding question: How has information technology developed
+through its major stages, and how has each stage changed society?
+✎  Explore (in pairs)
+With a partner, look at the five time periods in the table below before
+you read on. For each period, name one device or service from that era
+that you still use or hear about today. Then predict which stage
+changed daily life the most, and give one reason.
+📌Point!
+1. The History of Information Technology (IT)
+(1)  The major stages in the development of information technology are
+summarized in the table below.
+Time
+period
+Major technologies and
+events Impact on society
+1940s-60s Birth of the computer (ENIAC,
+vacuum tubes)
+Mainly used for military and scientific
+computation
+1970s-80s Spread of personal computers
+(PCs)
+Beginning of personal computer use
+1990s Commercialization of the
+Internet; the Web
+Globalization of information; spread
+of email
+2000s Rise of smartphones (iPhone,
+etc.)
+Explosive spread of mobile Internet
+2010s
+onward
+Spread of cloud computing Large-scale data analysis and AI; "IT as
+a service" becomes widespread
+(2)  (Moore's Law)...the empirical observation that "the number of
+transistors on an integrated circuit doubles approximately every two years."
+On an ordinary day, a student in Egypt checks messages on an SNS app,
+pays for breakfast with a cashless app, joins a lesson through online
+learning, and orders a book from an e-commerce (EC) shop. Twenty years
+ago, most of this was not possible. Information technology has developed
+through a series of stages — from the first computers to cloud computing
+— and at each stage it has changed the way people communicate, work,
+learn, and pay.
+===== PAGE 4 =====
+1-1 — Development of Information Technology and Social Transformation
+61-1 — Development of Information Technology and Social Transformation
+Moore's Law — the
+observation that the
+number of transistors on a
+chip roughly doubles about
+every two years.
+This is “the cloud” — real
+machines in a real place.
+💡 PAUSE & THINK
+Of these five changes, which
+would be hardest to give up
+— and why?
+This remained largely accurate for many years, and computing power
+increased dramatically.
+Moore's Law: transistor count over time
+2. Social Changes Resulting from Information Technology
+(1)  (SNS (Social Networking Service))...services that allow users to
+connect with each other and post and share information. They are highly
+effective at spreading information rapidly.
+(2)  (E-commerce (EC))...buying and selling goods and services through the
+Internet.
+e.g., online shops such as Amazon and eBay
+(3)  (Remote work)...a working style in which work is performed from home
+or other remote locations using the Internet.
+(4)  (Online learning)...a learning style in which classes and study materials
+are delivered using the Internet.
+(5)  (Cashless payment)...a system for making payments using electronic
+money, QR codes, etc., without using cash.
+e.g., credit cards, debit cards, mobile payment apps
+Five social changes driven by information technology.
+However, in recent years, miniaturization of transistors has been
+approaching a physical limit. If circuits are made any smaller, problems
+arise such as the quantum tunneling effect, in which electrons slip
+through barriers, and leakage current, in which current escapes
+unintentionally, making it difficult to achieve both higher performance
+and lower power consumption at the same time. In response, new
+directions for performance improvement are being pursued, such as
+parallel processing using multiple processor cores, and quantum
+computers based on the principles of quantum mechanics.
+KEY TERMS
+===== PAGE 5 =====
+1-1 — Development of Information Technology and Social Transformation
+71-1 — Development of Information Technology and Social Transformation
+edge computing —
+processing data on the
+device itself, instantly,
+instead of sending it to the
+cloud.
+💡 PAUSE & THINK
+In autonomous driving, why
+is it necessary to process data
+instantly on the vehicle side
+using edge computing, rather
+than sending the data to the
+cloud for judgment? Explain
+your answer.
+3. Notable Emerging Technologies
+(1)  (Autonomous driving)...a technology that uses AI to drive a vehicle
+without human operation. It uses cameras and sensors to recognize the
+surroundings, makes driving decisions, and controls a vehicle. Because a
+delay of even 0.1 seconds can lead to an accident, edge computing, in
+which processing is performed instantly on the vehicle itself rather than
+sending data to the cloud for judgment, is used.
+A self-driving car decides on board (edge computing), without waiting for the cloud.
+(2)  AR / VR
+①  (AR (Augmented Reality))...a technology that overlays digital
+information on real-world images.
+②  (VR (Virtual Reality))...a technology that allows users to immerse
+themselves in a virtual space generated by a computer.
+AR adds digital layers to the real world; VR replaces it with a virtual one.
+(3)  (Quantum computing)...a technology expected to dramatically speed
+up computations that are difficult or impossible for traditional computers,
+by using the principles of quantum mechanics.
+A classical bit holds one state; a qubit uses superposition.
+KEY TERMS
+===== PAGE 6 =====
+1-1 — Development of Information Technology and Social Transformation
+81-1 — Development of Information Technology and Social Transformation
+KEY TERMS
+Moore's Law —
+transistors per chip roughly
+double every two years.
+edge computing — data
+processed on the device
+itself, instantly.
+✎  Worked Example
+(1)  From the following options (A–D), choose the one that lists the
+stages of information technology (IT) development in the correct
+chronological order.
+A Birth of the computer → Rise of smartphones →
+Commercialization of the Internet → Spread of cloud computing
+B Birth of the computer → Commercialization of the Internet →
+Rise of smartphones → Spread of cloud computing
+C Commercialization of the Internet → Birth of the computer →
+Spread of cloud computing → Rise of smartphones
+D Rise of smartphones → Commercialization of the Internet → Birth
+of the computer → Spread of cloud computing
+(2)  Mark each statement (A–D) with ○ if true or × if false.
+A Moore's Law is the empirical observation that "the number of
+transistors on an integrated circuit doubles approximately every
+two years."
+B Moore's Law has been said to be approaching a physical limit in
+recent years.
+C SNS is highly effective at spreading information rapidly.
+D E-commerce (EC) refers to purchasing goods at physical stores
+using cash.
+(3)  Match each description (a–c) with the most appropriate
+technology from the choices below (A–C).
+a A technology that overlays digital information on real-world
+images
+b A technology that uses AI to drive a vehicle without human
+operation
+c A technology that allows users to immerse themselves in a virtual
+space generated by a computer
+[Choices]   A Autonomous driving    B AR    C VR
+✓  Solution
+(1)  The correct order is "Birth of the computer (1940s-60s) →
+Commercialization of the Internet (1990s) → Rise of smartphones
+(2000s) → Spread of cloud computing (2010s onward)." Therefore, B.
+(2)
+A Correct definition of Moore's Law. Therefore, ○.
+B It has been said to be approaching a physical limit in recent
+years. Therefore, ○.
+C SNS is a service highly effective at spreading information rapidly.
+Therefore, ○.
+D E-commerce refers to buying and selling through the Internet,
+not purchases at physical stores using cash. Therefore, ×.
+===== PAGE 7 =====
+1-1 — Development of Information Technology and Social Transformation
+91-1 — Development of Information Technology and Social Transformation
+📝 EXAM-STYLE
+QUESTION
+KEY TERMS
+remote work — working
+from home or another
+remote location using the
+Internet.
+online learning — classes
+and materials delivered
+over the Internet.
+(3)
+a: Overlaying digital information on real-world images is AR
+(Augmented Reality). B
+b: Driving a vehicle without human operation is autonomous
+driving. A
+c: Immersing oneself in a virtual space is VR (Virtual Reality). C
+Try
+1   Answer the following questions.
+1. What is the name of the empirical observation that "the number of
+transistors on an integrated circuit doubles approximately every two
+years"?
+2. What is the term for the buying and selling of goods and services using
+the Internet?
+3. What is the term for the working style in which one works from home
+or other remote locations using the Internet?
+4. What is the term for the system for making payments using electronic
+money, QR codes, etc., without using cash?
+5. What is the term for the technology that uses AI to drive a vehicle
+without human operation?
+2   Answer the following questions.
+(1)  For each of a–d, indicate which of the following is most closely related:
+A Changes in daily life, B Changes in industry and the economy, C Changes
+in healthcare and education.
+a
+b Paying for purchases using a mobile payment app on a smartphone.
+c Sharing photos with friends on SNS.
+d A company introducing a work-from-home system.
+(2)  From the following options (A–D), choose the one that is NOT an
+appropriate description of an emerging technology.
+A Autonomous driving uses AI to drive a vehicle without human
+operation.
+B AR is a technology that overlays digital information on real-world
+images.
+C VR is a technology that dramatically improves the processing speed of
+a computer.
+D Quantum computing is expected to speed up computations that are
+difficult for traditional computers.
+Analyze how the spread of
+cloud computing (from the
+2010s onward) has changed
+the way information
+technology is used. [6] In
+your answer, refer to:
+large-scale data analysis, AI,
+and "IT as a service".
+Taking classes through online learning.
+===== PAGE 8 =====
+1-1 — Development of Information Technology and Social Transformation
+101-1 — Development of Information Technology and Social Transformation
+💡  PAUSE & THINK
+Cashless payment is
+spreading in many countries.
+If a fully cashless society were
+realized, choose one
+advantage and one possible
+concern, and briefly explain
+the reason for each.
+KEY TERMS
+cloud computing — IT
+delivered as a service over
+the Internet.
+e-commerce — buying
+and selling through the
+Internet.
+⚙  Think as an Engineer — Investigate & Decide
+Start from the advantage and concern you named in the Pause & Think
+note, then investigate further and decide.
+1 · Collect data. Survey ten classmates: do they usually pay with cash
+or with a cashless method (card, mobile app, or QR code)? Record the
+results in a table and identify the most common response.
+2 · Analyze the stakeholders. Using your survey and your own
+reasoning, note one benefit and one drawback of a fully cashless
+society for each group below.
+Group Benefit Drawback
+A customer paying
+A small shop owner
+A person with no bank card
+or smartphone
+3 · Decide. Using your survey and your table, decide: should your
+community move toward cashless payment? Recommend one step
+and give two reasons.
+Stuck? Start with the customer — one benefit is speed of payment;
+one drawback is needing a card or a phone.
+🌍   In a New Context
+A village that has never had Internet access is connected to high-speed
+Internet and cashless payment for the first time. Using the stages and
+social changes you studied, predict two ways daily life in the village will
+change, and identify one new problem the village may face.
+❓   Lesson Question — Answered
+The lesson question asked how information technology developed and
+how each stage changed society. Information technology advanced
+through a series of stages rather than in a single step, and each stage
+changed much more than the technology itself. As computing spread,
+information became global and then mobile, many everyday activities
+moved online, and information technology grew into a service that
+supports large-scale data analysis and AI. Each stage also brought
+social changes in how people communicate, work, learn, and make
+payments. Overall, the development of information technology is not
+only about faster machines; at every stage it has reshaped daily life,
+industry, and the way society handles information.
+===== PAGE 9 =====
+1-1 — Development of Information Technology and Social Transformation
+111-1 — Development of Information Technology and Social Transformation
+⭐ REFLECT & CHALLENGE
+KEY TERMS
+SNS — connects users to
+post and share information.
+cashless payment —
+payment without cash (e-
+money, QR).
+⭐ Key takeaway
+Remember:
+Information technology
+developed in stages —
+computers, the Internet,
+smartphones, and cloud
+computing. At each stage
+it introduced a new
+technology or service and
+also changed how society
+communicates, works,
+learns, and pays.
+Exercise
+1   Cover the Point! section with a red plastic sheet and quiz
+yourself in your notebook in numerical order.
+2   Read the following passage and answer each question.
+Computers were invented in the 1940s and were initially used mainly for
+military and scientific computation. Later, in the 1970s and 1980s, ( a )
+became widespread, allowing individuals to use computers. In the 1990s, ( b
+) was commercialized, advancing the globalization of information. In the
+2000s, ( c ) emerged, leading to the explosive spread of mobile Internet.
+2. What technology, which spread from the 2010s onward, supports large-
+scale data analysis and the use of AI?
+3   Answer the following questions.
+A Email    B Autonomous driving    C Personal computers    D AR    E
+VR    F Quantum computing
+A A service that allows users to connect with each other and post and
+share information, and is highly effective at spreading information
+rapidly.
+B A service for buying and selling goods and services through the
+Internet.
+C A working style in which one works from home or other remote
+locations.
+D A system for making payments using electronic money or QR codes
+without using cash.
+Reflect: Which stage of
+information technology do
+you think will matter most in
+the next ten years? Give one
+reason. Was your prediction
+at the start of the lesson
+correct? What changed your
+mind? Challenge: Choose
+one emerging technology
+from this lesson
+(autonomous driving, AR, VR,
+or quantum computing).
+Suggest one way it could
+help solve a real problem,
+and state one risk.
+(2)  From the following options (A–D), choose the one that most
+appropriately describes the characteristics of SNS.
+(1)  From the following options (A–F), choose all that are emerging
+technologies.
+1. Fill in the blanks (a)–(c).
+3. According to Moore's Law, about how often does the number of
+transistors on an integrated circuit double?
+===== PAGE 10 =====
+1-2 — How AI Works
+121-2 — How AI Works
+Learning Objectives
+Explain what AI is.•
+Explain how generative AI is positioned within AI technologies.•
+Lesson 1-2
+How AI Works
+===== PAGE 11 =====
+1-2 — How AI Works
+131-2 — How AI Works
+Three everyday AI examples:
+speech, image, translation.
+Today's AI is narrow — expert at
+one task only.
+💡 THINK IT THROUGH
+Spam filters and product
+recommendations are both
+examples of machine learning,
+but the tasks they perform are
+completely different. From the
+perspective of how AI works,
+explain what these two
+applications have in common.
+When you use a phone, AI is often at work. A spam filter sorts your email, a store
+recommends products you might buy, a translation app changes one language
+into another, and ChatGPT generates text from a prompt. These are all examples
+of AI, but they are not all the same kind. AI includes machine learning, within
+machine learning is deep learning, and today's generative AI systems are built on
+deep learning — a series of nested technologies, each more specialized than the
+last.
+? Guiding question: What is AI, and how are machine learning, deep
+learning, and generative AI related?
+✎  Explore · In Pairs
+With a partner, list three tasks a phone or computer does for you that seem
+to need "intelligence" (for example, sorting spam, recommending a video,
+or translating text). Then predict: does the computer follow fixed rules, or
+does it learn from examples? Give one reason.
+📌Point!
+(1)  (AI (Artificial Intelligence))…a general term for technologies that reproduce
+or perform intelligent human behavior (learning, reasoning, judgment, etc.) on a
+computer.
+e.g., speech recognition, image recognition, translation
+2. The Relationship between AI and Machine Learning
+(1)  Within AI technologies, there is machine learning; within machine learning,
+there is deep learning; and within deep learning, there is generative AI. The
+broad field of AI includes increasingly specialized technologies as a series of
+nested categories.
+1. What is Artificial Intelligence (AI)?
+===== PAGE 12 =====
+1-2 — How AI Works
+141-2 — How AI Works
+Fixed hand-written rules versus
+rules learned from data.
+💡  PAUSE & THINK
+Deep learning needs large-
+scale data to learn. Why might
+an AI struggle with something
+it has rarely seen in its data?
+KEY TERMS
+neural network — a system
+modeled after the nerve cells
+(neurons) of the human
+brain, used to learn from data
+and make complex
+judgments.
+KEY TERMS
+generative AI — AI that uses
+deep learning to generate
+new data such as text,
+images, and audio.
+Hierarchy of AI Technologies
+(2)  (Machine Learning)…one of the learning technologies that makes AI work. It
+learns patterns from data to make predictions and judgments.
+e.g., spam filters, product recommendations
+(3)  (Deep Learning)…an advanced technology within machine learning that
+uses neural networks. It learns complex patterns using large-scale data.
+e.g., image analysis for autonomous driving, speech synthesis
+(4)  (Neural network)…a system modeled after the workings of the nerve cells
+(neurons) of the human brain. By connecting many components, it learns from
+data and becomes capable of making complex judgments. It is the core
+technology supporting recent advances in AI.
+A neural network connects many simple components.
+(5)  (Generative AI)…AI technology that uses deep learning to generate new
+data (text, images, audio, programs, etc.).
+e.g., ChatGPT, image generation AIs
+Generative AI creates new text, images, and audio.
+===== PAGE 13 =====
+1-2 — How AI Works
+151-2 — How AI Works
+KEY TERMS
+machine learning — learns
+patterns from data.
+deep learning — uses neural
+networks on large-scale data.
+✎  Worked Example
+(1)  Mark each statement (A–D) with ○  if true or × if false.
+A Machine learning is one of the technologies that makes AI work.
+B Deep learning is a completely different technology from machine
+learning.
+C Generative AI is a technology that uses deep learning to generate new
+data.
+D AI and machine learning have the same meaning.
+(2)  Match each description (a–c) with the most appropriate term from the
+choices below (A–C).
+a A technology that learns patterns from data to make predictions and
+judgments
+b A technology that uses neural networks to learn complex patterns
+c AI technology that generates new data such as text and images
+[Choices]   A Machine learning    B Deep learning    C Generative AI
+✓  Solution
+(1)
+A Machine learning is one of the learning technologies that makes AI
+work. Therefore, ○ .
+B Deep learning is a type of machine learning (an advanced technology
+within machine learning). Therefore, ×.
+C Correct description of generative AI. Therefore, ○ .
+D AI is a broad concept, and machine learning is one of the
+technologies within it. They do not have the same meaning.
+Therefore, ×.
+(2)
+a: Learning patterns from data is machine learning. A
+b: Using neural networks is deep learning. B
+c: Generating new data is generative AI. C
+===== PAGE 14 =====
+1-2 — How AI Works
+161-2 — How AI Works
+📝 EXAM-STYLE QUESTION
+💡 THINK IT THROUGH
+Generative AI can produce text
+that sounds plausible but is
+factually incorrect (a
+"hallucination"). Explain why it
+is dangerous to use such
+output as the answer to a
+school report as-is, and state
+what learners should do
+instead.
+Try
+1   Answer the following questions.
+1. What is the general term, expressed by a two-letter abbreviation, for
+technologies that reproduce or perform intelligent human behavior on a
+computer?
+2. What is the term for the learning technology that makes AI work by learning
+patterns from data to make predictions and judgments?
+3. What is the term for the advanced technology within machine learning that
+uses neural networks?
+4. What is the term for the AI technology that uses deep learning to generate
+new data?
+2   Answer the following questions.
+(1)  From the following options (A–D), choose the one that correctly describes the
+relationship between AI, machine learning, deep learning, and generative AI.
+A AI > Deep Learning > Machine Learning > Generative AI
+B Machine Learning > AI > Generative AI > Deep Learning
+C AI > Machine Learning > Deep Learning > Generative AI
+D Generative AI > Deep Learning > Machine Learning > AI
+(2)  From the following options (A–D), choose the one that is NOT an appropriate
+example of generative AI.
+A ChatGPT
+B Image generation AI
+C Spam filter
+D Audio generation AI
+⚙ Think as an Engineer — Investigate & Decide
+Starting from the Think It Through note about hallucination, investigate
+further and decide.
+1 · Investigate. Find one documented example where a generative AI gave
+an answer that sounded correct but was actually wrong (a "hallucination").
+Record its source — a news article, an official report, or a prompt you tested
+yourself with a screenshot — and note where you found it. Do not rely on an
+example recalled from memory without a source.
+2 · Weigh it up. Note one benefit and one risk of using generative AI to
+write a school report — for the student, and for the teacher.
+3 · Decide. Should generative AI be allowed for homework in your school?
+Recommend one rule and give two reasons.
+Analyze the relationship
+between AI, machine learning,
+deep learning, and generative
+AI. [6] In your answer: use the
+idea of nested categories, and
+give one example of each.
+===== PAGE 15 =====
+1-2 — How AI Works
+171-2 — How AI Works
+KEY TERMS
+deep learning — uses neural
+networks to learn complex
+patterns.
+generative AI — uses deep
+learning to generate new
+data.
+⭐  REFLECT & CHALLENGE
+Reflect: Before this lesson, did
+you think AI was one single
+technology? How has your idea
+changed? Which of the four —
+AI, machine learning, deep
+learning, generative AI — was
+hardest to tell apart, and why?
+Challenge: Generative AI can
+create text, images, and audio.
+Suggest one helpful use and
+one possible misuse, and say
+how the misuse could be
+reduced.
+Stuck? One benefit is speed; one risk is that the answer may be
+factually incorrect, so it must be checked.
+🌍   In a New Context
+A farmer wants to use AI to distinguish healthy crops from diseased ones in
+photographs. Using what you learned about deep learning and image
+analysis, explain what the AI would need to learn from, and identify one
+reason its judgment might be wrong.
+❓   Lesson Question — Answered
+The lesson question asked what AI is and how machine learning, deep
+learning, and generative AI are related. AI is a general term for technologies
+that reproduce or perform intelligent human behavior on a computer, and
+machine learning, deep learning, and generative AI are increasingly
+specialized fields nested within it rather than parallel to it. The key idea
+from this lesson is that these are not four separate technologies to learn in
+isolation, but one broad field understood at different levels of
+specialization.
+Exercise
+1   Cover the Point! section with a red plastic sheet and quiz yourself in
+your notebook in numerical order.
+2   Read the following passage and answer each question.
+The general term for technologies that reproduce or perform intelligent human
+behavior on a computer is ( a ). One of the learning technologies that makes ( a )
+work by learning patterns from data is ( b ). Within ( b ), an advanced technology
+that uses neural networks is ( c ). Furthermore, the technology that uses ( c ) to
+generate new data is ( d ).
+1. Fill in the blanks (a)–(d).
+===== PAGE 16 =====
+1-2 — How AI Works
+181-2 — How AI Works
+⭐  Key takeaway
+Remember:
+AI is the broad field;
+machine learning sits
+inside it, deep learning
+inside machine learning,
+and today's generative AI is
+built on deep learning —
+from the broadest idea to
+the most specialized.
+3   Answer the following questions.
+(1)  For each example (a–d), indicate which of the following is most closely
+related: A Machine learning, B Deep learning, C Generative AI.
+a Automatically sorting spam emails
+b Recognizing pedestrians on the road in autonomous driving
+c Automatically generating new images from text
+d Recommending products based on a user's purchase history
+(2)  From the following options (A–D), choose the one that most appropriately
+describes the relationship between AI, machine learning, deep learning, and
+generative AI.
+A Machine learning is a type of AI, and deep learning is a type of machine
+learning.
+B AI is a type of machine learning, and generative AI is a type of AI.
+C Deep learning and machine learning are completely different technologies.
+D Generative AI is a technology that generates data without using machine
+learning.

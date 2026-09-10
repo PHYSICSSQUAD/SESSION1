@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IT & Society — Interactive Lecture Deck</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<canvas id="bg"></canvas>
+
+<header id="hdr">
+  <div id="hdrLogo"></div>
+  <div class="hdr-id"><div id="hdrName"></div><div id="hdrTitle"></div></div>
+  <div class="sp"></div>
+  <span id="secChip"></span>
+  <span id="counter"></span>
+  <button class="hbtn" id="tocB" title="Contents">☰</button>
+  <button class="hbtn" id="ovB" title="Overview grid">▦</button>
+  <button class="hbtn" id="resetB" title="Reset scores">↺</button>
+  <div id="prog"></div>
+</header>
+
+<main id="stage"></main>
+
+<nav id="nav">
+  <span id="tocCur"></span>
+  <button class="nav-b" id="prevB">← Prev</button>
+  <button class="nav-b" id="nextB">Next →</button>
+</nav>
+
+<aside id="toc"><div id="tocList"></div></aside>
+<div id="ov"><div id="ovGrid"></div></div>
+
+<script src="assets/config.js"></script>
+<script src="assets/questions.js"></script>
+<script src="assets/slides.js"></script>
+<script src="assets/sims.js"></script>
+<script src="assets/merge.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
